@@ -13,7 +13,7 @@ Rough prototype of making CapSense documentation available for all vesions. This
 [Main Git Repository](https://github.com/cypresssemiconductorco/capsense/)
 
 <script>
-const GH_API_URL = 'https://api.github.com/repos/aristath/aristath.github.com/issues/5/comments';
+const GH_API_URL = 'https://api.github.com/repos/forehead2k/capsense/issues/1/comments';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
