@@ -47,7 +47,7 @@ function createCommentEl( response ) {
 	let commentLink = document.createElement( 'a' );
 	commentLink.setAttribute( 'href', response.html_url );
 	commentLink.classList.add( 'comment-url' );
-	commentLink.innerHTML = 'view or reply to comment on GitHub';
+	commentLink.innerHTML = 'view / reply on GitHub';
 
 	let commentContents = document.createElement( 'div' );
 	commentContents.classList.add( 'comment-content' );
