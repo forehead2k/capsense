@@ -14,10 +14,14 @@ img.avatar {
 }
 
 .comment-content {
-    font-family: monospace;
+    font-family: sans-serif;
     white-space: pre;
 }
 
 li {  
     list-style-type: none;
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: darkgrey;
+    background-color: lightgrey;
 }
