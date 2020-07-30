@@ -70,7 +70,7 @@ request.send();
 <hr>
 
 <div class="github-comments">
-	<h2>Comments</h2>
+	<h1>Comments</h1>
 	<ul id="gh-comments-list"></ul>
 	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/forehead2k/capsense/issues/1">this ticket</a>. Comments appear on this page instantly.</p>
 </div>
