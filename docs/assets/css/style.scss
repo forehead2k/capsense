@@ -14,12 +14,12 @@ img.avatar {
 }
 
 .comment-content {
-    color: #101010;
     white-space: pre;
+    line-height: normal;
+    font-size: 0.8rem;
 }
 
 li {  
-    line-height: normal;
     list-style-type: none;
     border-style: none none solid none;
     border-width: 1px;
