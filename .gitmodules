@@ -4,3 +4,9 @@
 [submodule "docs/v2.0"]
 	path = docs/v2.0
 	url = https://github.com/cypresssemiconductorco/capsense.git
+[submodule "docs/v2.10-comments"]
+	path = docs/v2.10-comments
+	url = http://devops-git.aus.cypress.com/nsf/capsense-comments.git
+[submodule "docs/v2.10-comment"]
+	path = docs/v2.10-comment
+	url = https://github.com/forehead2k/capsense-comments.git
